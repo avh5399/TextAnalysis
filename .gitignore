@@ -1,6 +1,6 @@
 .vscode
 .testing
 .aclImdb
-.combined_pos.txt
-.combined_neg.txt
-.glove.6B.100d.txt
+/combined_pos.txt
+/combined_neg.txt
+/glove.6B.100d.txt
